@@ -1,0 +1,335 @@
+SVN Folder:
+D:\Ashfaque\IAAC_SVN\NYIFF2017
+
+Common Shared Folder:
+\\srvibswin\Pool\generalsharing\iaacTemp\2017  access directory
+
+Click system: 
+http://www.iaac.us/follbackfolder/recover1/AddMassMail.php
+
+pommo:
+http://localhost/iaacpommo/admin/mailings/mailing_status.php
+
+Barb 123Images access path:
+
+\\srvibswin\Pool\Barb\Team\Design\remaning\123rfimg_forselection
+
+software tree:
+\\srvibswin\Pool\generalsharing\iaacTemp\Software tree\2017\09Jan2017-Newblog-INLINEMappingwithJDXAORM
+
+
+TOMMARO:
+file:///D:/Ashfaque/IAAC_SVN/Literary-Festival2017/index.htm
+
+file:///D:/Ashfaque/IAAC_SVN/IAAC_dance_fest2017/call_for_submission.htm
+
+file:///D:/Ashfaque/IAAC_SVN/newsletter/EB-Dance-call_for_submission.html
+
+mail work for tomarrow:
+\\srvibswin\Pool\generalsharing\iaacTemp\2017\R1- Jan11-all-lists
+
+FROM POMMO
+-------------------------------------
+Subject: SAVE THE DATES: 17th Annual New York Indian Film Festival (NYIFF) April 30-May 7th, 2017
+URL: http://www.iaac.us/newsletter/NYIFF2017-save-the-date4.htm
+---------------
+FROM CLICK SYSTEM
+-------------------------------------
+Subject: Art Exhibition: ANKITA Opening January 15th + Hammond Museum Inspiration Call for Entries
+URL: http://www.iaac.us/newsletter/Ankita-HM.htm
+
+Canva login details:
+--------------------------------------
+ibtester4@gmail.com
+pass fortest005
+login with FB
+
+Barbara T. Longsworth
+
+-------------------------------------
+>\\srvibswin\Share2\IAAC\2017\NYIFF2017\Call-for-submission-poster
+>
+>keep with you... will discuss later.. 
+ok
+
+my pass:
+Pass&890
+
+What are the default font sizes (in pixels)
+h1 is   32px   (2em)
+h2 is   24px (1.5em)
+h3 is 20.8px (1.3em)
+h4 is   16px   (1em)
+h5 is 12.8px (0.8em)
+h6 is 11.2px (0.7em)
+
+---------------------------------------------
+12/08/2017
+
+Message could not be sent. SMTP Mailer Error: Message body empty 
+
+
+Current File Working:- Aug_2500_to_5000 & page NO:- 77
+Current Running List:- Aug_0_to_2500 & List No:- 1 / 8
+EmailsList:- Aug_0_to_2500
+
+User:- iaac2@iaac.us
+From:- 	
+
+Subject:- 	
+-----------------
+
+helix home page slider trasparent on mobile view
+Aug 16 2017
+----------------------------------------
+custom.css
+
+.navbar {
+    min-height: 70px;
+    background-color: transparent; //added
+   }
+
+.navbar {
+    border-bottom: none;
+}
+
+
+@320 index page 359
+.main-content {
+    top: -81px;  //added
+margin-bottom: -81px;
+}
+
+
+
+.navbar-toggle {
+    position: relative;
+    float: left;    //change
+    font-size: 25px;
+    line-height: 70px;
+    height: 70px;
+    display: table;
+    padding: 0 15px;
+    border-radius: 4px;
+    background-image: none;
+    cursor: pointer;
+}
+
+.navbar-brand {
+    float: right;
+    font-family: "Droid Serif", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+    height: 70px;
+    line-height: 70px;
+}
+
+.navbar {
+    position: absolute;
+    z-index: 1000;
+    background-color: #ffffff;  
+    width: 100%;
+}
+
+
+-----------------------------
+Remove this:  max-809
+
+@media(min-width: 768px){
+
+.noo-step-icon .noo-step-icon-item:after, .noo-step-icon .noo-step-icon-item:before {
+    background: none repeat scroll 0 0 #ebbb06;
+    content: "";
+    height: 10px;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 47px;
+    width: 50%;
+}
+
+Add this:
+@766
+
+.noo-step-icon li a {
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+
+==================================
+Name: Mohammd Ashafaq Mohammd Yunus
+ 
+Aadhar card No: 7410 2960 1183
+
+PAN No.
+DDUPM7461K
+-------------------------
+--------------
+!qA%o#S;KsJu#93xQy!
+--------------
+leomelendez	WYhppNeEZP)j@t1*PnANl2X6
+-----------------------------
+
+.box_heading {
+margin-bottom: 20px;
+font-size: 25px;
+line-height: 38px;
+font-weight: 300;
+text-align: center;
+margin-top: 10px;
+}
+
+
+.custom_dark_btn {
+    display: inline-block;
+    border: 1px solid #FF5B3D !important;
+    color: #FF5B3D !important;
+    background-color: transparent !important;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 11px 24px;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: capitalize;
+    text-decoration: none;
+    letter-spacing: 2px;
+    -webkit-transition: background-color .3s 0s ease-in-out, color .3s 0s ease-in-out;
+    -moz-transition: background-color .3s 0s ease-in-out, color .3s 0s ease-in-out;
+    -o-transition: background-color .3s 0s ease-in-out, color .3s 0s ease-in-out;
+    -ms-transition: background-color .3s 0s ease-in-out, color .3s 0s ease-in-out;
+    transition: background-color .3s 0s ease-in-out, color .3s 0s ease-in-out;
+}
+.custom_dark_btn:hover {
+    background-color: #DB543B !important;
+     color: #ffffff !important;
+    -webkit-transition: color 0.2s linear, background 0.2s linear;
+    -moz-transition: color 0.2s linear, background 0.2s linear;
+    -o-transition: color 0.2s linear, background 0.2s linear;
+    transition: color 0.2s linear, background 0.2s linear;
+}
+
+.custom_light_btn {
+    display: inline-block;
+    border: 1px solid #FF5B3D;
+    color: #ffffff !important;
+    background-color: transparent !important;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 11px 24px;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: capitalize;
+    text-decoration: none;
+    letter-spacing: 2px;
+    -webkit-transition: background-color .3s 0s ease-in-out, color .3s 0s ease-in-out;
+    -moz-transition: background-color .3s 0s ease-in-out, color .3s 0s ease-in-out;
+    -o-transition: background-color .3s 0s ease-in-out, color .3s 0s ease-in-out;
+    -ms-transition: background-color .3s 0s ease-in-out, color .3s 0s ease-in-out;
+    transition: background-color .3s 0s ease-in-out, color .3s 0s ease-in-out;
+}
+.custom_light_btn:hover {
+    color:#ffffff !important;
+    border: 1px solid transparent;
+    background-color: transparent !important;
+    -webkit-transition: color 0.2s linear, background 0.2s linear;
+    -moz-transition: color 0.2s linear, background 0.2s linear;
+    -o-transition: color 0.2s linear, background 0.2s linear;
+    transition: color 0.2s linear, background 0.2s linear;  
+}
+
+-------------------------------------------
+Bootstrap 4 container 
+-------------------------------------------
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto
+}
+
+@media (min-width:576px) {
+    .container {
+        max-width: 540px
+    }
+}
+
+@media (min-width:768px) {
+    .container {
+        max-width: 720px
+    }
+}
+
+@media (min-width:992px) {
+    .container {
+        max-width: 960px
+    }
+}
+
+@media (min-width:1200px) {
+    .container {
+        max-width: 1140px
+    }
+}
+
+.container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto
+}
+-------------------------------------------
+Responsive breakpoints
+-------------------------------------------
+We occasionally use media queries that go in the other direction (the given screen size or smaller):
+
+// Extra small devices (portrait phones, less than 576px)
+// No media query since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }	
+
+There are also media queries and mixins for targeting a single segment of screen sizes using the minimum and maximum breakpoint widths.
+
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) { ... }
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) and (max-width: 767.98px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) and (max-width: 991.98px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) and (max-width: 1199.98px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
+
+Similarly, media queries may span multiple breakpoint widths:
+// Example
+// Apply styles starting from medium devices and up to extra large devices
+@media (min-width: 768px) and (max-width: 1199.98px) { ... }
+
+
+Several Bootstrap components utilize z-index, the CSS property that helps control layout by providing a third axis to arrange content. We utilize a default z-index scale in Bootstrap that’s 
+
+$zindex-dropdown:          1000 !default;
+$zindex-sticky:            1020 !default;
+$zindex-fixed:             1030 !default;
+$zindex-modal-backdrop:    1040 !default;
+$zindex-modal:             1050 !default;
+$zindex-popover:           1060 !default;
+$zindex-tooltip:           1070 !default;
+-------------------------------------------
